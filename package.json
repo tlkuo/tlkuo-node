@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tlkuo/tlkuo-node/issues"
   },
-  "homepage": "https://github.com/tlkuo/tlkuo-node#readme"
+  "homepage": "https://github.com/tlkuo/tlkuo-node#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
